@@ -1,2 +1,2 @@
 # QuantumultX
-# 自定义QuantumultX分流规则
+自定义QuantumultX分流规则
