@@ -5,4 +5,15 @@ DOMAIN-KEYWORD,susercontent,自定义代理
 DOMAIN-SUFFIX,oceancloud.asia,自定义代理
 DOMAIN-SUFFIX,app-measurement.com,自定义代理
 DOMAIN-SUFFIX,7-11.com.tw,自定义代理
-DOMAIN-SUFFIX,gstatic.com,自定义代理
+DOMAIN-SUFFIX,shopee.tw,自定义代理
+DOMAIN-SUFFIX,seller.shopee.tw,自定义代理
+DOMAIN-SUFFIX,seller-push-ws.shopee.tw,自定义代理
+DOMAIN-SUFFIX,patronus.idata.shopeemobile.com,自定义代理
+DOMAIN-SUFFIX,ubt.tracking.shopee.tw,自定义代理
+DOMAIN-SUFFIX,deo.shopeemobile.com,自定义代理
+DOMAIN-SUFFIX,chatbot.seller.shopee.tw,自定义代理
+DOMAIN-SUFFIX,chatbot.shopee.tw,自定义代理
+DOMAIN-SUFFIX,cschat.shopee.tw,自定义代理
+DOMAIN-SUFFIX,df.infra.shopee.tw,自定义代理
+DOMAIN-SUFFIX,help.shopee.tw,自定义代理
+DOMAIN-SUFFIX,shopeemobile.com,自定义代理
